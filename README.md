@@ -16,3 +16,5 @@ Un jour un pain qui ne trouvait plus son chemin rencontra une tomate. la tomate 
 - je cherche mon chemin 
 - ooooh tu es donc un pain perdu.
 >>>>>>> 0005869b5dc877f845f991b9654e8529422c1bf1
+
+Il a marché 100km pendant 5 jours sous un soleil de plomb. il avait mal aux pieds et il n'avait plus rien à manger. Il a décidé de faire du stop pour rentrer plus vite.
