@@ -18,3 +18,5 @@ Un jour un pain qui ne trouvait plus son chemin rencontra une tomate. la tomate 
 >>>>>>> 0005869b5dc877f845f991b9654e8529422c1bf1
 
 Il a marché 100km pendant 5 jours sous un soleil de plomb. il avait mal aux pieds et il n'avait plus rien à manger. Il a décidé de faire du stop pour rentrer plus vite.
+un groupe de lapin, ils avaient comme lui très très faim, le canard pris peur car il avait peur qu'ils s'en prennent à lui, il prit donc la fuite avec le peu d'energie qui lui restait et soudain...
+
